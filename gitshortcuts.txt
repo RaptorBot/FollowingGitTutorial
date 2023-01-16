@@ -12,3 +12,5 @@ git log --pretty=full
 git log --since=2.days (can have week, month and year)
 git log --pretty=format: "%h -- %an"
 git restore --staged <file>
+git checkout -- <file>
+git checkout -f
