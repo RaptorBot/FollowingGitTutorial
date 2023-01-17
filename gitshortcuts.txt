@@ -14,3 +14,5 @@ git log --pretty=format: "%h -- %an"
 git restore --staged <file>
 git checkout -- <file>
 git checkout -f
+git remote
+git remote -v
